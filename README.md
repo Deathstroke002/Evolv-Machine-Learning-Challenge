@@ -14,7 +14,7 @@ Overall, the model performed better with the original images and not the extract
 
 The Validation accuracy achieved = 0.75
 
-The Training accuracy achieved = 0.98
+The Training accuracy achieved = 0.81
 
 # Predict:
 
