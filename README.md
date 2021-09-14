@@ -12,7 +12,7 @@ Parameters set during training
 
 Overall, the model performed better with the original images and not the extracted face pipeline. 
 
-The Validation accuracy achieved = 0.45
+The Validation accuracy achieved = 0.75
 
 The Training accuracy achieved = 0.98
 
